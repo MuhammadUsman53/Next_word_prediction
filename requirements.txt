@@ -1,0 +1,6 @@
+streamlit
+fastapi
+uvicorn
+tensorflow-cpu
+numpy<2.0.0
+requests
