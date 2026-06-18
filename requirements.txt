@@ -1,0 +1,7 @@
+streamlit
+requests
+uvicorn
+fastapi
+numpy
+onnxruntime
+
